@@ -1,7 +1,7 @@
 
 [![Build Status](https://travis-ci.org/chnm/serendipomatic.png)](https://travis-ci.org/chnm/serendipomatic)
 
-About
+## About
 -----
 [Serendip-o-matic](http://serendipomatic.org/) connects your sources to digital materials
 located in libraries, museums, and archives around the world. By first examining your
@@ -17,7 +17,7 @@ pointing you to materials you might not have discovered. At the very least, the 
 input-output process helps you step back and look at your work from a new perspective.
 Give it a whirl. Your sources may surprise you.
 
-Installation notes for developers
+## Installation notes for developers
 ---------------------------------
 
 Install pip if you don't have it:
